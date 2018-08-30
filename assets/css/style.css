@@ -1,0 +1,57 @@
+
+h1 {
+
+       text-align: right;    
+       color: rgb(0, 0, 0);
+       margin: 50px;
+       border: 50px; 
+       text-align: center;
+
+
+
+}
+
+
+
+body {
+
+         background-color: rgb(192, 161, 161);
+
+
+}
+
+
+
+p {
+      margin: 70px;
+      text-align: center;
+
+
+
+}
+
+
+
+header {
+    
+    background-color: white;
+    position: inherit;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 25px 0 black;
+}
+
+
+
+
+.div2 {
+
+          text-align: right;
+          background-color: aqua;
+         
+
+}
